@@ -32,5 +32,5 @@ bash <(curl -s https://raw.githubusercontent.com/XCNINJA/Pterodactyl-Theme-Autoi
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
+- Recode By [ Andy ](https://github.com/XCNINJA)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
